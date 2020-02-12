@@ -50,7 +50,7 @@
 					<div class="btn-menu"></div>
 					<nav id="mainnav" class="mainnav" role="navigation">
 						<?php wp_nav_menu( array( 'theme_location' => 'primary', 'fallback_cb' => 'sydney_menu_fallback' ) ); ?>
-					</nav><!-- #site-navigation
+					</nav><!-- #site-navigation -->
 				</div>
 				</div>
 			</div>
